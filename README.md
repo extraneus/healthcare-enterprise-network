@@ -1,0 +1,1 @@
+Secure Healthcare Information Network System is an enterprise-grade network solution designed to enhance security, scalability, and efficiency in critical environments. While our implementation focused on healthcare IT infrastructure, the system applies to any enterprise requiring secure data transmission, remote access, and real-time communication
