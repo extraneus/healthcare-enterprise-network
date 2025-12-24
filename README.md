@@ -1,18 +1,13 @@
 # Secure Healthcare Information Network System
 
-A secure, scalable, and simulation-based healthcare network infrastructure designed to protect sensitive medical data, improve communication efficiency, and ensure regulatory compliance using modern networking and security practices.
-
----
-
-## 📌 Project Overview
-
-Healthcare systems manage highly sensitive data such as patient records, research data, and operational workflows. This project implements a **Secure Healthcare Information Network System** that addresses key challenges including data breaches, insecure communication, poor scalability, and lack of proper network segmentation.
+A secure, scalable, and simulation-based healthcare network infrastructure designed to protect sensitive medical data, improve communication efficiency, and ensure regulatory compliance using modern networking and security practices.Healthcare systems manage highly sensitive data such as patient records, research data, and operational workflows. This project implements a **Secure Healthcare Information Network System** that addresses key challenges including data breaches, insecure communication, poor scalability, and lack of proper network segmentation.
 
 The system is designed and simulated using **Cisco Packet Tracer**, following a modular and hierarchical network architecture suitable for real-world healthcare environments.
 
 ---
 
-## 🎯 Objectives
+
+## Objectives
 
 - Network segmentation using VLANs  
 - Secure remote access using VPN  
@@ -24,7 +19,7 @@ The system is designed and simulated using **Cisco Packet Tracer**, following a 
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 The network follows a hierarchical design consisting of:
 
@@ -41,7 +36,7 @@ The network follows a hierarchical design consisting of:
 
 ---
 
-## 🔐 Security Features
+## Security Features
 
 - Cisco ASA Firewall  
 - Access Control Lists (ACLs)  
@@ -53,7 +48,7 @@ The network follows a hierarchical design consisting of:
 
 ---
 
-## 🌐 Network Services Implemented
+## Network Services Implemented
 
 - Web Server (HTTPS)
 - Mail Server (Postfix & Dovecot)
@@ -64,7 +59,7 @@ The network follows a hierarchical design consisting of:
 
 ---
 
-## 🧪 Simulation & Testing
+##  Simulation & Testing
 
 - Tool Used: Cisco Packet Tracer  
 - Tested for:
@@ -77,13 +72,13 @@ All services and security mechanisms were validated through network simulation b
 
 ---
 
-## 📊 IP Addressing
+## IP Addressing
 
 
 
 ---
 
-## ⚖️ Compliance & Ethics
+## Compliance & Ethics
 
 - Designed following healthcare data protection principles (HIPAA-style)
 - Ensures confidentiality, integrity, and availability of sensitive data
@@ -91,7 +86,7 @@ All services and security mechanisms were validated through network simulation b
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Cloud-based data storage and analytics  
 - AI-powered threat detection  
@@ -101,7 +96,7 @@ All services and security mechanisms were validated through network simulation b
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 - Limited external system integration  
 - Partial cloud support  
@@ -110,7 +105,7 @@ All services and security mechanisms were validated through network simulation b
 
 ---
 
-## 🧑‍💻 Authors
+## Authors
 
 - Kolinco Akash (221-15-5444)  
 - Faysal Hasan Torjo (221-15-5926)  
@@ -121,15 +116,10 @@ Daffodil International University
 
 ---
 
-## 📚 Academic Information
+## Academic Information
 
 - Course: Computer Networks Lab (CSE314)  
 - Institution: Daffodil International University  
 - Submission Date: December 2024  
 
 ---
-
-## 📄 License
-
-This project is intended for academic and educational purposes.  
-You may add an open-source license (MIT / Apache 2.0) if publishing publicly.
