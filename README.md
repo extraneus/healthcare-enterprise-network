@@ -3,6 +3,7 @@
 A secure, scalable, and simulation-based healthcare network infrastructure designed to protect sensitive medical data, improve communication efficiency, and ensure regulatory compliance using modern networking and security practices.Healthcare systems manage highly sensitive data such as patient records, research data, and operational workflows. This project implements a **Secure Healthcare Information Network System** that addresses key challenges including data breaches, insecure communication, poor scalability, and lack of proper network segmentation.
 
 The system is designed and simulated using **Cisco Packet Tracer**, following a modular and hierarchical network architecture suitable for real-world healthcare environments.
+<img width="804" height="544" alt="1123" src="https://github.com/user-attachments/assets/92ac01d8-abd3-443e-ae2d-7fb20e721c43" />
 
 ---
 
@@ -74,6 +75,7 @@ All services and security mechanisms were validated through network simulation b
 
 ## IP Addressing
 
+<img width="1138" height="200" alt="ipaddr" src="https://github.com/user-attachments/assets/23c4c7da-2e66-4960-9e1b-adc497296959" />
 
 
 ---
